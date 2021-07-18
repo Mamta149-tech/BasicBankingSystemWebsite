@@ -5,3 +5,5 @@ Server language: PHP
 Database: MySQL
 
 Home page: home.html (To start the website)
+
+The website is capable of doing transactions and show the transaction history.
